@@ -1,2 +1,3 @@
 # Aries
-The official server bot for Aries | OPEN SOURCE!
+
+Aries is the official Discord bot for [our server](https://dsc.gg/ariez) which is now open source to everyone!
